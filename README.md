@@ -1,4 +1,5 @@
 # USA 2019 , 12 Months Sales Data Analysis and Meaningful insights
+Project ppt report link : https://1drv.ms/p/c/fe7a6df7bf676260/EQCn22F9OYpGksd_6BLJU6EBUrNi6sYQ6JyE8RbqJa7JjA?e=JlWNc8
 
 🚀 Excited to share my latest Python project! 🐍 Analyzing 12 Months of Sales Data across the USA! 🇺🇸
 
