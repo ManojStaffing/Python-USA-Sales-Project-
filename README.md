@@ -1,4 +1,4 @@
-# USA 12 Months Sales Data Analysis and Meaningful insights
+# USA 2019 , 12 Months Sales Data Analysis and Meaningful insights
 
 🚀 Excited to share my latest Python project! 🐍 Analyzing 12 Months of Sales Data across the USA! 🇺🇸
 
